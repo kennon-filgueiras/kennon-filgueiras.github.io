@@ -1,0 +1,40 @@
+body{
+background-color: blue !important;
+}
+#container{
+	width: 960px;
+	margin:0 auto;
+}
+h1{
+	color: #4682B4;
+}
+
+#logo-header{
+	width: 80px;
+	float: left;
+}
+
+a{
+	cursor: pointer;
+}
+
+.procurar:hover{
+	background: #bdbdbdbd
+	border: 1px solid black;
+}
+.procurar{
+		border:1px solid black;
+		color: black;
+}
+
+.jumbotron {
+	border-radius: 0px !important;
+}
+
+.rodape {
+	height: 800px;
+}
+
+.gradiente {
+	background-image: linear-gradient(to left, #87CEFA, #87CEFA)
+}
